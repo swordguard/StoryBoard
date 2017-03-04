@@ -1,0 +1,10 @@
+<books>
+  <book email="a@sina.com">
+    <name>changed</name>
+    <price>222</price>
+  </book>
+  <book email="a@sina.com">
+    <name>changed</name>
+    <price>222</price>
+  </book>
+</books>

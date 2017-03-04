@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usersinfo>
+  <user bAdmin="false">
+    <username>test1</username>
+    <password>888888</password>
+    <address>aaa</address>
+    <zipcode>111111</zipcode>
+    <telephone>12345678901</telephone>
+    <email>a@b.com</email>
+    <bFrozen>false</bFrozen>
+  </user>
+  <user bAdmin="true">
+    <username>admin</username>
+    <password>888888</password>
+    <address>aaa</address>
+    <zipcode>111111</zipcode>
+    <telephone>12245678901</telephone>
+    <email>a@b.com</email>
+    <bFrozen>false</bFrozen>
+  </user>
+  <user bAdmin="false">
+    <username>Bob</username>
+    <password>bob</password>
+    <address>aaa</address>
+    <zipcode>aaa</zipcode>
+    <telephone>aaa</telephone>
+    <email>aaa</email>
+    <bFrozen>false</bFrozen>
+  </user>
+  <user bAdmin="false">
+    <username>a</username>
+    <password>a</password>
+    <address>a</address>
+    <zipcode>a</zipcode>
+    <telephone>a</telephone>
+    <email>a</email>
+    <bFrozen>true</bFrozen>
+  </user>
+  <user bAdmin="false">
+    <username>tom</username>
+    <password>tom</password>
+    <address>t</address>
+    <zipcode>t</zipcode>
+    <telephone>t</telephone>
+    <email>t</email>
+    <bFrozen>false</bFrozen>
+  </user>
+  <user bAdmin="false">
+    <username>test</username>
+    <password>test</password>
+    <address />
+    <zipcode />
+    <telephone />
+    <email />
+    <bFrozen>false</bFrozen>
+  </user>
+  <user bAdmin="false">
+    <username>aa</username>
+    <password />
+    <address />
+    <zipcode />
+    <telephone />
+    <email />
+    <bFrozen>false</bFrozen>
+  </user>
+  <user bAdmin="false">
+    <username>tom2</username>
+    <password>tom</password>
+    <address />
+    <zipcode>11111111111111111111111111111111111111111111111111111111111111111111111111111111111111222222222222222222222222222222333333333333333333333333333333333333333333333333333333333333333333333333333334444444444444444444444444444444</zipcode>
+    <telephone />
+    <email />
+    <bFrozen>false</bFrozen>
+  </user>
+  <user bAdmin="false">
+    <username>Greg</username>
+    <password>greg</password>
+    <address />
+    <zipcode />
+    <telephone />
+    <email />
+    <bFrozen>false</bFrozen>
+  </user>
+</usersinfo>
